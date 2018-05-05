@@ -15,7 +15,7 @@ exec('brew install node');
 
 echo "\n\033[32mNode installed.\033[0m\n";
 
-exec('npm init --yes');
+exec('npm init --yes'); 
 
 echo "\n\033[33mIf prompted, enter your password to install packages.\033[0m\n";
 
